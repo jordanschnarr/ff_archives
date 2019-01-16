@@ -1,7 +1,7 @@
 <?php
 if ( ! defined('ABSPATH')) exit;
 get_header(); ?>
-<!--TESTING THE REPO UPDATES-->
+<!--Testing right now-->
 <?php do_action('totalpress_open_post_container') ?>
 <?php do_action('totalpress_before_the_post_content'); ?>
 <?php do_action('totalpress_main_loop'); ?>
